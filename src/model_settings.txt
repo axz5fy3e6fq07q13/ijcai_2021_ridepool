@@ -1,0 +1,7 @@
+training_days: 0
+testing_days: 1
+num_agents: 50
+value_num: 2
+write_file: True
+print_verbose: True
+down_sample: 1
