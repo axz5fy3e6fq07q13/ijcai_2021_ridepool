@@ -1,5 +1,5 @@
 import Settings
-Settings.read_from_arguments()
+Settings.read_from_file()
 
 from Environment import NYEnvironment
 from CentralAgent import CentralAgent
